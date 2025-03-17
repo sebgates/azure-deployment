@@ -1,6 +1,4 @@
-## Laravel Blog
-
-## Requirements
+## Laravel Blog Requirements
 •	PHP 7.3 or higher <br>
 •	Node 12.13.0 or higher <br>
 
